@@ -1,0 +1,30 @@
+[
+  {
+    "listingId": "39896685",
+    "calendarDate": "2026-08-10",
+    "available": true,
+    "bookable": true,
+    "availableForCheckin": true,
+    "availableForCheckout": false,
+    "minNights": 3,
+    "maxNights": 27,
+    "price": "USD 251.67",
+    "pricePerNight": 251.67,
+    "mode": "availability",
+    "scrapedAt": "2026-08-04T07:03:40.500706+00:00"
+  },
+  {
+    "listingId": "39896685",
+    "calendarDate": "2026-08-11",
+    "available": true,
+    "bookable": true,
+    "availableForCheckin": true,
+    "availableForCheckout": true,
+    "minNights": 3,
+    "maxNights": 27,
+    "price": "USD 251.67",
+    "pricePerNight": 251.67,
+    "mode": "availability",
+    "scrapedAt": "2026-08-04T07:03:40.500707+00:00"
+  }
+]

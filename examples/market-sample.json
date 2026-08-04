@@ -1,0 +1,49 @@
+[
+  {
+    "market": "Porto, Portugal",
+    "listingCount": 38,
+    "roomTypeMix": {
+      "Apartment": 31,
+      "Condo": 1,
+      "Loft": 1,
+      "unknown": 3,
+      "Cabin": 1,
+      "Guesthouse": 1
+    },
+    "adrMedian": 873,
+    "adrMean": 1569.89,
+    "priceP25": 651,
+    "priceP50": 861,
+    "priceP75": 1109,
+    "occupancyAvg": 0.623,
+    "revpar": 978.04,
+    "revenueMedian": 182745.35,
+    "revenueTopQuartile": 233196.64,
+    "ratingAvg": 4.96,
+    "currency": "USD",
+    "sampleSize": 38,
+    "scrapedAt": "2026-08-04T10:22:05.992821+00:00",
+    "mode": "market",
+    "rowType": "summary",
+    "markdownContent": "# Market report - Porto, Portugal\n**Listings:** 38  \n**Median ADR:** 873.0\n**Avg occupancy:** 0.623  \n**RevPAR:** 978.04\n**Median annual revenue:** 182745.35 (top 25%: 233196.64) \u2026"
+  },
+  {
+    "mode": "market",
+    "rowType": "listing",
+    "market": "Porto, Portugal",
+    "listingId": "32739737",
+    "name": "Incredible 1br Apt for 3, balcony, Ribeira",
+    "roomType": "Apartment",
+    "rating": 4.91,
+    "reviewsCount": 212,
+    "latitude": 41.1404,
+    "longitude": -8.6141,
+    "adr": 861,
+    "occupancyRate": 0.8261,
+    "revpar": 711.27,
+    "estAnnualRevenue": 259614.32,
+    "url": "https://www.airbnb.com/rooms/32739737",
+    "currency": "USD",
+    "scrapedAt": "2026-08-04T10:21:23.622591+00:00"
+  }
+]

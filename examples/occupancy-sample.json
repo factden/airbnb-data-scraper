@@ -1,0 +1,18 @@
+[
+  {
+    "listingId": "39896685",
+    "name": "Rental unit in Brooklyn",
+    "occupancyRate": 0.9315,
+    "adr": 251.67,
+    "revpar": 234.43,
+    "estAnnualRevenue": 85567.17,
+    "bookedNights": 340,
+    "availableNights": 25,
+    "horizonDays": 365,
+    "mode": "occupancy",
+    "url": "https://www.airbnb.com/rooms/39896685",
+    "currency": "USD",
+    "scrapedAt": "2026-08-04T07:03:53.741008+00:00",
+    "markdownContent": "# Occupancy - listing 39896685\n**Occupancy rate:** 0.9315\n**ADR:** 251.67  \n**RevPAR:** 234.43\n**Estimated annual revenue:** 85567.17 \u2026"
+  }
+]

@@ -5,7 +5,9 @@ sentiment — as structured JSON/CSV, no login and no Airbnb API key. A pay-per-
 on the [Apify](https://apify.com) platform with an API, scheduling, integrations and proxy rotation.
 
 ▶️ **Run it:** [apify.com/factden/airbnb-data-scraper?fpr=factden](https://apify.com/factden/airbnb-data-scraper?fpr=factden)
-· License: MIT
+· Step-by-step: [`HOWTO.md`](HOWTO.md) · License: MIT
+
+![Airbnb occupancy scraper output — occupancy rate, ADR, RevPAR and estimated annual revenue per Airbnb listing, a pay-per-use AirDNA alternative](https://raw.githubusercontent.com/factden/apify-actor-assets/main/airbnb-data-scraper/04-occupancy.png?v=1)
 
 ## What it extracts
 
@@ -33,6 +35,10 @@ curl -X POST "https://api.apify.com/v2/acts/factden~airbnb-data-scraper/runs?tok
 
 One flat row per result; every row also carries a `markdownContent` field for LLM/RAG ingestion. Field dictionary:
 [`FIELDS.md`](FIELDS.md). Samples: [`examples/`](examples/).
+
+![Airbnb market report output — one aggregate row per market with median ADR, price percentiles, occupancy, RevPAR and revenue quartiles](https://raw.githubusercontent.com/factden/apify-actor-assets/main/airbnb-data-scraper/06-market.png?v=1)
+
+![Airbnb Discover mode output — every listing in a market with name, property type, nightly price, rating, review count and superhost status](https://raw.githubusercontent.com/factden/apify-actor-assets/main/airbnb-data-scraper/02-discover.png?v=1)
 
 ## Use cases
 
