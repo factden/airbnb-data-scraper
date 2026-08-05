@@ -7,6 +7,10 @@ on the [Apify](https://apify.com) platform with an API, scheduling, integrations
 ▶️ **Run it:** [apify.com/factden/airbnb-data-scraper?fpr=factden](https://apify.com/factden/airbnb-data-scraper?fpr=factden)
 · Step-by-step: [`HOWTO.md`](HOWTO.md) · License: MIT
 
+**Watch the walkthrough:**
+
+[![How to Scrape Airbnb Data to CSV (No Code)](https://img.youtube.com/vi/PFsFODsKQpo/maxresdefault.jpg)](https://www.youtube.com/watch?v=PFsFODsKQpo)
+
 ![Airbnb occupancy scraper output — occupancy rate, ADR, RevPAR and estimated annual revenue per Airbnb listing, a pay-per-use AirDNA alternative](https://raw.githubusercontent.com/factden/apify-actor-assets/main/airbnb-data-scraper/04-occupancy.png?v=1)
 
 ## What it extracts
