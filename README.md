@@ -68,5 +68,6 @@ Occupancy $0.010 · Review $0.004 · Market report $0.39. A 500-listing market d
 - Expedia Reviews Scraper — [store](https://apify.com/factden/expedia-hotel-reviews-scraper?fpr=factden) · ([docs](https://github.com/factden/expedia-hotel-reviews-scraper))
 - Hotels.com Reviews Scraper — [store](https://apify.com/factden/hotels-com-reviews-scraper?fpr=factden) · ([docs](https://github.com/factden/hotels-com-reviews-scraper))
 - Ctrip / Trip.com Reviews — [store](https://apify.com/factden/ctrip-trip-reviews-scraper?fpr=factden)
+- Agoda Hotel Reviews Scraper - [store](https://apify.com/factden/agoda-hotel-reviews-scraper?fpr=factden) · ([docs](https://github.com/factden/agoda-hotel-reviews-scraper))
 
 [All FactDen actors →](https://apify.com/factden?fpr=factden)
